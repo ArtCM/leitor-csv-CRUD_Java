@@ -25,7 +25,7 @@ O Projeto consiste em um leitor de arquivos csv separado por ponto e virgula com
 
 # Preview:
 
-<video alt="Preview" src="./preview.mp4" />
+[Video da utilização](./preview.mp4)
 
 <br>
 
